@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "DCGUY009/automaticdeploy-practice",
+  "pipelineDirectory": "automaticdeploy-practice",
+  "workspaceDirectory": "automaticdeploy-practice\\automaticdeploy-practice",
+  "repositories": {
+    "DCGUY009/automaticdeploy-practice": {
+      "repositoryPath": "automaticdeploy-practice\\automaticdeploy-practice",
+      "lastRunOn": "08/23/2022 00:30:48 +05:30"
+    }
+  },
+  "lastRunOn": "08/23/2022 00:43:28 +05:30"
+}

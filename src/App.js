@@ -9,6 +9,9 @@ function App() {
         <h1>
           Hello World!
         </h1>
+        <h2>
+          Actions are done like this
+        </h2>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>

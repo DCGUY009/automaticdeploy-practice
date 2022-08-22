@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "react-app",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/cKq1fCQ7Ank32tQ40eqtQkfzyawcibeFdDadjGJFfvJvFKtwMe",
+  "gitHubUrl": "https://github.com/DCGUY009/automaticdeploy-practice",
+  "workFolder": "react-app"
+}
