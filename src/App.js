@@ -12,9 +12,6 @@ function App() {
         <h2>
           Actions are done like this
         </h2>
-        <p> 
-            Again Connected to Heroku just now!
-        </p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
