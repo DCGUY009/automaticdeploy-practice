@@ -13,7 +13,7 @@ function App() {
           Actions are done like this
         </h2>
         <p> 
-            Connected to Heroku!
+            Connected to Heroku just now!
         </p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
